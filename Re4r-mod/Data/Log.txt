@@ -1,0 +1,17 @@
+Initialized menus.
+Network initialized.
+Initialized network.
+Initialized input.
+Initialized sound.
+Initialized texture loading.
+Initialized secondary framebuffers.
+Loaded menu and GUI textures.
+Mod manager initializing...
+Mod manager finished initialization!
+Fluffy Mod Manager v3.004 (created by patreon.com/fluffyquack)
+Current Windows user doesn't have adminstrative rights.
+If you run into issues, try right-clicking the modmanager executable and selecting run as admin.
+Finished init.
+You're running the most up-to-date version of Fluffy Mod Manager.
+Mod manager de-initializing...
+Mod manager finished de-initialization!
